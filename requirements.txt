@@ -17,4 +17,3 @@ sentence-transformers==2.2.2
 python-dotenv==1.0.0
 faiss-cpu==1.7.4
 pdf2image == 1.17.0
-poppler-windows == 24.02.0
