@@ -65,7 +65,7 @@ input_prompt1 = """
 
 input_prompt3 = """
 Assume yourself as a You are an experienced Technical Human Resource Manager,your task is to review the provided resume against the job description.
-provide a percentage value which signifies the match between job description  and the resume. Also specify the reason for the given percentage if the percentage is less than 75 percent tell them where they can improve to match the job description.
+provide a percentage value which signifies the match between job description  and the resume.Make sure to give very less percentage if the resume does not matches with job description be very strict in giving the percentage. Also specify the reason for the given percentage if the percentage is less than 75 percent tell them where they can improve to match the job description.
 The answer format should be in this way like "Percentage: [percent_value] Areas of Imporvements:[] "
 """
 
